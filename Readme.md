@@ -16,7 +16,7 @@
 * **Time**: 10.00 AM to 02.00 PM
 * **Online**: Google Meet
 
-![] (images/THM-Mehul-Patel.jpeg)
+![](images/THM-Mehul-Patel.jpeg)
 
 Special thanks to [Viral Parmar](https://twitter.com/viralparmarhack) for hosting me.
 
