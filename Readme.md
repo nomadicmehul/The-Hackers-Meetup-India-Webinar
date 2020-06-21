@@ -20,9 +20,9 @@
 
 Special thanks to [Viral Parmar](https://twitter.com/viralparmarhack) for hosting me.
 
-#### Event type: Closed 
+#### Event type: Public
 
-<h2><a href="">Slides</a></h2>
+<h2><a href="https://speakerdeck.com/rowdymehul/git-crypt-a-tool-to-secure-your-secrets">Slides</a></h2>
 
 Feel free to ping me anytime on [Telegram](http://telegram.me/rowdymehul) or [Twitter](http://twitter.com/rowdymehul) and I’m happy to chat with you.
 
